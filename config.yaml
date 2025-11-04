@@ -1,0 +1,13 @@
+mongo_uri: "mongodb://localhost:27017/"
+db_name: "ml_dataset"
+seed: 42
+
+augmentation:
+  flip: true
+  rotate: [90, 180, 270]
+  noise: 0.05
+
+split_ratios:
+  train: 0.7
+  val: 0.15
+  test: 0.15
