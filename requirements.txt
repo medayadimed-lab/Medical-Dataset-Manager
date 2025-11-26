@@ -6,3 +6,4 @@ pymongo
 numpy
 pandas
 scikit-image
+python-dotenv
