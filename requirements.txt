@@ -9,3 +9,4 @@ scikit-image
 python-dotenv
 bcrypt
 matplotlib
+PyYAML
