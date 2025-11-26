@@ -8,3 +8,4 @@ pandas
 scikit-image
 python-dotenv
 bcrypt
+matplotlib
